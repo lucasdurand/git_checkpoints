@@ -46,4 +46,4 @@ GIT_URL=#remote url
 
 
 ## Advanced Usage
-With the basic git checkpointing system in place, users will be able to directly interact with git through from notebooks in order to create/change/merge branches, point to custom remote endpoints, while leveraging the integrated commit/push functionality of Jupyter Notebook's *Save and Checkpoint* as well as *Restore Checkpoint*. Users should be careful when altering the default branches as merge conflicts can and will become an issue that must be handled in the normal way.
+With the basic git checkpointing system in place, users will be able to directly interact with git in order to create/change/merge branches, point to custom remote endpoints, while leveraging the integrated commit/push functionality of Jupyter Notebook's *Save and Checkpoint* as well as *Restore Checkpoint*. Users should be careful when altering the default branches as merge conflicts can and will become an issue that must be handled in the normal way.
